@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SideMenu_SlidingTabs</string>
+    <string name="title_activity_action_bar_tabs">Actionbar version</string>
+    <string name="title_activity_pager_tab_strip_tabs">PagerTabStrip version</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="actionbar">ActionBar tabs</string>
+    <string name="pagertab">PagerTabStrip</string>
+    <string name="drawer_open">Navigation Drawer open</string>
+    <string name="drawer_closed">Navigation Drawer closed</string>
+
+    <array name="drawer_items">
+        <item>Item #1</item>
+        <item>Item #2</item>
+        <item>Item #3</item>
+        <item>Item #4</item>
+        <item>Item #5</item>
+    </array>
+
+    <array name="tab_names">
+        <item>Tab #1</item>
+        <item>Tab #2</item>
+        <item>Tab #3</item>
+        <item>Tab #4</item>
+        <item>Tab #5</item>
+    </array>
+
+
+</resources>
