@@ -1,4 +1,4 @@
-package com.example;
+package us.the.mac.sidemenu_slidingtabs;
 
 import android.app.ActionBar;
 import android.app.FragmentTransaction;
@@ -18,7 +18,6 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import Nate.sidemenu_slidingtabs.R;
 
 public class ActionBarTabs extends FragmentActivity implements ActionBar.TabListener{
 

@@ -1,4 +1,4 @@
-package com.example;
+package us.the.mac.sidemenu_slidingtabs;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,7 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import Nate.sidemenu_slidingtabs.R;
 
 //Fragment used in ViewPager. Just one color on entire page
 

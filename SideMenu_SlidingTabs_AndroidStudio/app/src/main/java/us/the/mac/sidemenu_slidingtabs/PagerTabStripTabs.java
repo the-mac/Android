@@ -1,4 +1,4 @@
-package com.example;
+package us.the.mac.sidemenu_slidingtabs;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -17,7 +17,6 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import Nate.sidemenu_slidingtabs.R;
 
 public class PagerTabStripTabs extends FragmentActivity {
 
