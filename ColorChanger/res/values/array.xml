@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="BackgroundColor">
+        <item>Grey</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+    <string-array name="BackgroundColorNumber">
+        <item>#808080</item>
+        <item>#0000FF</item>
+        <item>#FF0000</item>
+        <item>#008000</item>
+        <item>#FFFF00</item>
+        <item>#FAAFBE</item>
+    </string-array>
+
+</resources>
